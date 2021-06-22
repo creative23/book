@@ -1,0 +1,50 @@
+
+Tutorial: 
+https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/
+
+
+
+Creating New App
+npx create-react-app book
+
+Defendencies
+
+Installing yarn
+npm install -g yarn
+
+yarn add bootstrap@4.6.0 lodash@4.17.21 react-bootstrap@1.5.2 node-sass@4.14.1 react-router-dom@5.2.0 uuid@8.3.2
+
+If can not install yar, use:
+npm install bootstrap@4.6.0 lodash@4.17.21 react-bootstrap@1.5.2 node-sass@4.14.1 react-router-dom@5.2.0 uuid@8.3.2
+
+CMD Command Prompt
+
+Up one directory 
+cd ..
+
+
+
+
+
+Package.json file updated, then run:
+npm update
+
+Create default App
+npx create-react-app myapp
+
+Start an App
+npm start
+
+
+Create a production build of the dev app
+npm run build
+
+Mongo DB commands in Windows command promprt
+
+Start 
+
+
+Stop
+
+
+
